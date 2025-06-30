@@ -13,7 +13,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Ankur Gupta — Full Stack Developer & AI Automation Enthusiast from India
+  Hi, I'm Ankur Gupta — Full Stack Developer | Software development | Data Science | AI Automation Enthusiast from India
   <br><br>
   🎓 I completed my B.Tech in Computer Science & Engineering from DKTE Society's Textile and Engineering Institute
   <br>
